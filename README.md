@@ -4,6 +4,7 @@
 
 2023.01. ~ 2023.02.
 - 프로젝트명 : 프로젝트 DPR을 이용한 검색 솔루션
+- 링크 : https://github.com/jeongjaehun10/DPR_Elasticsearch_PLATFORM.git 
 - 개요 : dense passage retrieval & rest api & elasticsearch를 연동 
 - 역할 :  similarity 구현, 무신사 데이터 크롤링, elasticsearch 연동, 역색인
 - 활용기술 : Python, JAVA, Colab, Pycharm, Eclipse, SQLite
@@ -12,6 +13,7 @@
 
 2022.12. ~ 2023.01.
 - 프로젝트명 : L사 구매관련 데이터를 활용한 구매감소 예측
+- 링크 : https://github.com/jeongjaehun10/-Prediction-of-purchase-decline-using-company-L-purchase-related-data.git  
 - 개요 :  고객 및 거래 데이터를 통한 맞춤형 솔루션 개발
 - 역할 : 데이터 전처리 및 시각화, 문제점 분석, 새로운 Feature 생성, 정확도, 군집화, 추천 시스템 구현
 - 활용 기술 : 여러 머신 러닝 모델 (LGBM, Desicion Tree, XGBoost, LR 등), 대용량 데이터 전처리, Mysql, 비지도학습(K 평균 군집화)
@@ -20,6 +22,7 @@
 
 2022.10. ~ 2022.12.
 - 프로젝트명 : 서울시 부동산 분석
+- 링크 : https://github.com/jeongjaehun10/Seoul-Real-Estate-Analysis.git
 - 개요 : 서울시 지역별 동별 아파트, 상업지구 매매가 분석
 - 역할 : 데이터 전처리 및 시각화, 문제점 분석, 새로운 Feature 생성, 정확도, 군집화
 - 활용 기술 : Python, Google API 활용
